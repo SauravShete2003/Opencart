@@ -1,0 +1,52 @@
+15:41:50.734 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+15:41:50.748 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+15:41:50.750 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:41:50.750 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:41:50.751 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:41:50.751 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:41:50.752 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:41:50.752 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:41:50.755 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:41:50.756 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:41:50.756 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:41:50.756 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:41:50.757 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:41:50.757 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:41:50.757 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:41:50.757 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:41:50.758 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:41:50.758 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:41:50.759 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:41:50.760 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:41:50.760 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:41:50.760 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:41:50.767 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\AppData\Local\Temp\testng-eclipse--1655541838\testng-customsuite.xml
+
+15:41:50.795 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+15:41:50.940 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@43b6123e: 31 ms
+15:41:51.018 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6bb2d00b: 78 ms
+15:41:51.036 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4b9df8a: 18 ms
+15:41:51.051 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3a0d172f: 15 ms
+15:41:51.064 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@74a6a609: 13 ms
+15:41:51.073 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1a45193b: 9 ms
+15:41:51.074 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@38f116f6: 0 ms
+15:43:43.896 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\automation-framework\master.xml
+
+15:43:47.594 [main] INFO  testCases.TC004_AddToCartTest - ****** Starting Add To Cart page*****
+15:56:54.682 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\automation-framework\master.xml
+
+15:56:58.751 [main] INFO  testCases.TC004_AddToCartTest - ****** Starting Add To Cart page*****
+16:01:26.751 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\automation-framework\master.xml
+
+16:01:30.027 [main] INFO  testCases.TC004_AddToCartTest - ****** Starting Add To Cart page*****
+16:01:40.093 [main] ERROR testCases.TC004_AddToCartTest - Test failed: Expected condition failed: waiting for element found by By.xpath: //div[@class='product-thumb']//h4/a[normalize-space()='MacBook']/ancestor::div[@class='product-thumb']//button[contains(@onclick,'cart.add')] to be clickable, but the element was not found: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='product-thumb']//h4/a[normalize-space()='MacBook']/ancestor::div[@class='product-thumb']//button[contains(@onclick,'cart.add')]"}.
+(tried for 10 seconds with 500 milliseconds interval)
+Build info: version: '4.51.0', revision: '35c5fab 35c5fab4a58fa5878edb255eb7747b04ca51a015'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 158.0.8127.36, chrome: {chromedriverVersion: 158.0.8127.36 (14d6f648e8cd..., userDataDir: C:\Users\admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52043}, goog:processID: 17588, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52043/devtoo..., se:cdpVersion: 158.0.8127.36, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10...., webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 734202816f70870f1ee5448f27112c06

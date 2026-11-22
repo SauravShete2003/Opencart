@@ -1,0 +1,46 @@
+17:07:37.567 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\automation-framework\master.xml
+
+17:07:41.111 [main] INFO  testCases.TC002_LoginTest - ****** Starting login page*****
+17:07:41.646 [main] INFO  testCases.TC002_LoginTest - filling creditensial
+17:07:46.824 [main] INFO  testCases.TC004_AddToCartTest - ****** Starting Add To Cart page*****
+17:07:56.873 [main] ERROR testCases.TC004_AddToCartTest - Test failed: Expected condition failed: waiting for element found by By.xpath: //div[contains(@class,'product-thumb')]//h4/a[normalize-space()='Phone']/ancestor::div[contains(@class,'product-thumb')]//button[contains(@onclick,'cart.add')] to be clickable, but the element was not found: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class,'product-thumb')]//h4/a[normalize-space()='Phone']/ancestor::div[contains(@class,'product-thumb')]//button[contains(@onclick,'cart.add')]"}.
+(tried for 10 seconds with 500 milliseconds interval)
+Build info: version: '4.51.0', revision: '35c5fab 35c5fab4a58fa5878edb255eb7747b04ca51a015'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 158.0.8127.36, chrome: {chromedriverVersion: 158.0.8127.36 (14d6f648e8cd..., userDataDir: C:\Users\admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50860}, goog:processID: 23236, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50860/devtoo..., se:cdpVersion: 158.0.8127.36, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10...., webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6e961ed675c39001f40dc88e8074a398
+17:08:28.342 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\automation-framework\master.xml
+
+17:08:34.339 [main] INFO  testCases.TC002_LoginTest - ****** Starting login page*****
+17:08:34.846 [main] INFO  testCases.TC002_LoginTest - filling creditensial
+17:08:40.095 [main] INFO  testCases.TC004_AddToCartTest - ****** Starting Add To Cart page*****
+17:11:40.026 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\automation-framework\master.xml
+
+17:11:43.205 [main] INFO  testCases.TC002_LoginTest - ****** Starting login page*****
+17:11:43.714 [main] INFO  testCases.TC002_LoginTest - filling creditensial
+17:11:48.180 [main] INFO  testCases.TC004_AddToCartTest - ****** Starting Add To Cart page*****
+09:15:33.525 [main] INFO  testCases.TC001_AccountRegistration - ****** Starting TC001_AccountRegistration ******
+09:15:33.669 [main] INFO  testCases.TC001_AccountRegistration - Logged on MyAccount Link
+09:15:34.161 [main] INFO  testCases.TC001_AccountRegistration - Logged on Register Link
+09:15:34.173 [main] INFO  testCases.TC001_AccountRegistration - Providing customer details
+09:15:37.128 [main] INFO  testCases.TC001_AccountRegistration - Validating expected message
+09:15:39.858 [main] INFO  testCases.TC002_LoginTest - ****** Starting login page*****
+09:15:40.395 [main] INFO  testCases.TC002_LoginTest - filling creditensial
+09:15:45.387 [main] INFO  testCases.TC004_AddToCartTest - ****** Starting Add To Cart page*****
+09:31:02.134 [main] INFO  testCases.TC001_AccountRegistration - ****** Starting TC001_AccountRegistration ******
+09:31:02.244 [main] INFO  testCases.TC001_AccountRegistration - Logged on MyAccount Link
+09:31:02.782 [main] INFO  testCases.TC001_AccountRegistration - Logged on Register Link
+09:31:02.785 [main] INFO  testCases.TC001_AccountRegistration - Providing customer details
+09:31:05.567 [main] INFO  testCases.TC001_AccountRegistration - Validating expected message
+09:31:07.871 [main] INFO  testCases.TC002_LoginTest - ****** Starting login page*****
+09:31:08.297 [main] INFO  testCases.TC002_LoginTest - filling creditensial
+09:31:12.688 [main] INFO  testCases.TC004_AddToCartTest - ****** Starting Add To Cart page*****
+09:38:02.261 [main] INFO  testCases.TC001_AccountRegistration - ****** Starting TC001_AccountRegistration ******
+09:38:02.461 [main] INFO  testCases.TC001_AccountRegistration - Logged on MyAccount Link
+09:38:02.950 [main] INFO  testCases.TC001_AccountRegistration - Logged on Register Link
+09:38:02.958 [main] INFO  testCases.TC001_AccountRegistration - Providing customer details
+09:38:06.655 [main] INFO  testCases.TC001_AccountRegistration - Validating expected message

@@ -1,0 +1,64 @@
+16:06:17.636 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\automation-framework\master.xml
+
+16:06:20.806 [main] INFO  testCases.TC004_AddToCartTest - ****** Starting Add To Cart page*****
+16:42:46.033 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\automation-framework\master.xml
+
+16:42:51.121 [main] INFO  testCases.TC002_LoginTest - ****** Starting login page*****
+16:42:51.649 [main] INFO  testCases.TC002_LoginTest - filling creditensial
+16:42:57.395 [main] INFO  testCases.TC004_AddToCartTest - ****** Starting Add To Cart page*****
+16:42:57.404 [main] ERROR testCases.TC004_AddToCartTest - Test failed: Cannot invoke "org.openqa.selenium.support.ui.WebDriverWait.until(java.util.function.Function)" because "this.wait" is null
+16:44:28.230 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\automation-framework\master.xml
+
+16:44:32.166 [main] INFO  testCases.TC002_LoginTest - ****** Starting login page*****
+16:44:32.738 [main] INFO  testCases.TC002_LoginTest - filling creditensial
+16:44:37.857 [main] INFO  testCases.TC004_AddToCartTest - ****** Starting Add To Cart page*****
+16:44:37.862 [main] ERROR testCases.TC004_AddToCartTest - Test failed: Cannot invoke "org.openqa.selenium.support.ui.WebDriverWait.until(java.util.function.Function)" because "this.wait" is null
+16:45:14.252 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\automation-framework\master.xml
+
+16:45:17.413 [main] INFO  testCases.TC004_AddToCartTest - ****** Starting Add To Cart page*****
+16:45:17.459 [main] ERROR testCases.TC004_AddToCartTest - Test failed: Cannot invoke "org.openqa.selenium.support.ui.WebDriverWait.until(java.util.function.Function)" because "this.wait" is null
+16:47:22.564 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\automation-framework\master.xml
+
+16:47:25.790 [main] INFO  testCases.TC002_LoginTest - ****** Starting login page*****
+16:47:26.290 [main] INFO  testCases.TC002_LoginTest - filling creditensial
+16:47:32.313 [main] INFO  testCases.TC004_AddToCartTest - ****** Starting Add To Cart page*****
+16:54:21.288 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\automation-framework\master.xml
+
+16:54:25.070 [main] INFO  testCases.TC004_AddToCartTest - ****** Starting Add To Cart page*****
+16:54:59.492 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\automation-framework\master.xml
+
+16:55:02.660 [main] INFO  testCases.TC002_LoginTest - ****** Starting login page*****
+16:55:03.461 [main] INFO  testCases.TC002_LoginTest - filling creditensial
+16:55:10.205 [main] INFO  testCases.TC004_AddToCartTest - ****** Starting Add To Cart page*****
+16:56:23.701 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\automation-framework\master.xml
+
+16:56:27.287 [main] INFO  testCases.TC002_LoginTest - ****** Starting login page*****
+16:56:27.807 [main] INFO  testCases.TC002_LoginTest - filling creditensial
+16:56:33.079 [main] INFO  testCases.TC004_AddToCartTest - ****** Starting Add To Cart page*****
+17:00:51.516 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\automation-framework\master.xml
+
+17:00:54.965 [main] INFO  testCases.TC002_LoginTest - ****** Starting login page*****
+17:00:55.491 [main] INFO  testCases.TC002_LoginTest - filling creditensial
+17:01:01.701 [main] INFO  testCases.TC004_AddToCartTest - ****** Starting Add To Cart page*****
+17:03:38.690 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\automation-framework\master.xml
+
+17:03:42.276 [main] INFO  testCases.TC002_LoginTest - ****** Starting login page*****
+17:03:42.829 [main] INFO  testCases.TC002_LoginTest - filling creditensial
+17:03:47.741 [main] INFO  testCases.TC004_AddToCartTest - ****** Starting Add To Cart page*****
+17:03:57.794 [main] ERROR testCases.TC004_AddToCartTest - Test failed: Expected condition failed: waiting for element found by By.xpath: //div[contains(@class,'product-thumb')]//h4/a[normalize-space()='Phone']/ancestor::div[contains(@class,'product-thumb')]//button[contains(@onclick,'cart.add')] to be clickable, but the element was not found: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class,'product-thumb')]//h4/a[normalize-space()='Phone']/ancestor::div[contains(@class,'product-thumb')]//button[contains(@onclick,'cart.add')]"}.
+(tried for 10 seconds with 500 milliseconds interval)
+Build info: version: '4.51.0', revision: '35c5fab 35c5fab4a58fa5878edb255eb7747b04ca51a015'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 158.0.8127.36, chrome: {chromedriverVersion: 158.0.8127.36 (14d6f648e8cd..., userDataDir: C:\Users\admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53190}, goog:processID: 5232, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53190/devtoo..., se:cdpVersion: 158.0.8127.36, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10...., webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 19464046a843c16e5ed0beaadf00a368

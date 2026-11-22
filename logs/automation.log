@@ -1,0 +1,42 @@
+09:38:09.257 [main] INFO  testCases.TC002_LoginTest - ****** Starting login page*****
+09:38:10.248 [main] INFO  testCases.TC002_LoginTest - filling creditensial
+09:38:15.870 [main] INFO  testCases.TC004_AddToCartTest - ****** Starting Add To Cart page*****
+10:21:45.379 [main] INFO  testCases.TC001_AccountRegistration - ****** Starting TC001_AccountRegistration ******
+10:21:45.494 [main] INFO  testCases.TC001_AccountRegistration - Logged on MyAccount Link
+10:21:45.901 [main] INFO  testCases.TC001_AccountRegistration - Logged on Register Link
+10:21:45.909 [main] INFO  testCases.TC001_AccountRegistration - Providing customer details
+10:21:46.473 [main] INFO  testCases.TC001_AccountRegistration - Validating expected message
+10:21:49.932 [main] INFO  testCases.TC002_LoginTest - ****** Starting login page*****
+10:21:50.346 [main] INFO  testCases.TC002_LoginTest - filling creditensial
+10:21:54.444 [main] INFO  testCases.TC004_AddToCartTest - ****** Starting Add To Cart page*****
+16:50:11.942 [main] INFO  testCases.TC001_AccountRegistration - ****** Starting TC001_AccountRegistration ******
+16:50:12.098 [main] INFO  testCases.TC001_AccountRegistration - Logged on MyAccount Link
+16:50:12.588 [main] INFO  testCases.TC001_AccountRegistration - Logged on Register Link
+16:50:12.588 [main] INFO  testCases.TC001_AccountRegistration - Providing customer details
+16:50:15.256 [main] INFO  testCases.TC001_AccountRegistration - Validating expected message
+16:50:21.281 [main] INFO  testCases.TC002_LoginTest - ****** Starting login page*****
+16:50:21.668 [main] INFO  testCases.TC002_LoginTest - filling creditensial
+16:50:26.302 [main] INFO  testCases.TC004_AddToCartTest - ****** Starting Add To Cart page*****
+16:57:39.383 [main] INFO  testCases.TC001_AccountRegistration - ****** Starting TC001_AccountRegistration ******
+16:57:39.476 [main] INFO  testCases.TC001_AccountRegistration - Logged on MyAccount Link
+16:57:40.132 [main] INFO  testCases.TC001_AccountRegistration - Logged on Register Link
+16:57:40.140 [main] INFO  testCases.TC001_AccountRegistration - Providing customer details
+16:57:43.134 [main] INFO  testCases.TC001_AccountRegistration - Validating expected message
+16:57:45.625 [main] INFO  testCases.TC002_LoginTest - ****** Starting login page*****
+16:57:46.063 [main] INFO  testCases.TC002_LoginTest - filling creditensial
+16:57:50.287 [main] INFO  testCases.TC004_AddToCartTest - ****** Starting Add To Cart page*****
+17:03:12.453 [main] INFO  testCases.TC001_AccountRegistration - ****** Starting TC001_AccountRegistration ******
+17:03:12.629 [main] INFO  testCases.TC001_AccountRegistration - Logged on MyAccount Link
+17:03:13.164 [main] INFO  testCases.TC001_AccountRegistration - Logged on Register Link
+17:03:13.172 [main] INFO  testCases.TC001_AccountRegistration - Providing customer details
+17:03:15.306 [main] INFO  testCases.TC001_AccountRegistration - Validating expected message
+17:03:19.542 [main] INFO  testCases.TC002_LoginTest - ****** Starting login page*****
+17:03:19.994 [main] INFO  testCases.TC002_LoginTest - filling creditensial
+17:04:25.694 [main] INFO  testCases.TC001_AccountRegistration - ****** Starting TC001_AccountRegistration ******
+17:04:25.851 [main] INFO  testCases.TC001_AccountRegistration - Logged on MyAccount Link
+17:04:26.410 [main] INFO  testCases.TC001_AccountRegistration - Logged on Register Link
+17:04:26.410 [main] INFO  testCases.TC001_AccountRegistration - Providing customer details
+17:04:29.295 [main] INFO  testCases.TC001_AccountRegistration - Validating expected message
+17:04:32.382 [main] INFO  testCases.TC002_LoginTest - ****** Starting login page*****
+17:04:32.957 [main] INFO  testCases.TC002_LoginTest - filling creditensial
+17:04:37.314 [main] INFO  testCases.TC004_AddToCartTest - ****** Starting Add To Cart page*****

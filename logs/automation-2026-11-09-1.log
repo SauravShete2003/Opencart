@@ -1,0 +1,65 @@
+17:00:08.000 [main] INFO  testCases.TC002_LoginTest - filling creditensial
+18:51:12.231 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\automation-framework\master.xml
+
+18:51:49.146 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC0003_LoginDDT********
+18:51:49.848 [main] INFO  testCases.TC003_LoginDDT - filling creditensial
+18:51:51.871 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC0003_LoginDDT********
+18:51:51.879 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC0003_LoginDDT********
+18:52:02.102 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC0003_LoginDDT********
+18:52:12.285 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC0003_LoginDDT********
+18:52:22.464 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC0003_LoginDDT********
+18:52:32.641 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC0003_LoginDDT********
+18:53:47.372 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\automation-framework\master.xml
+
+18:53:51.431 [main] INFO  testCases.TC001_AccountRegistration - ****** Starting TC001_AccountRegistration ******
+18:53:51.543 [main] INFO  testCases.TC001_AccountRegistration - Logged on MyAccount Link
+18:53:52.140 [main] INFO  testCases.TC001_AccountRegistration - Logged on Register Link
+18:53:52.143 [main] INFO  testCases.TC001_AccountRegistration - Providing customer details
+18:53:55.303 [main] INFO  testCases.TC001_AccountRegistration - Validating expected message
+18:54:10.730 [main] INFO  testCases.TC002_LoginTest - ****** Starting login page*****
+18:54:11.211 [main] INFO  testCases.TC002_LoginTest - filling creditensial
+18:58:58.767 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\automation-framework\master.xml
+
+18:59:02.989 [main] INFO  testCases.TC001_AccountRegistration - ****** Starting TC001_AccountRegistration ******
+18:59:03.122 [main] INFO  testCases.TC001_AccountRegistration - Logged on MyAccount Link
+18:59:03.764 [main] INFO  testCases.TC001_AccountRegistration - Logged on Register Link
+18:59:03.769 [main] INFO  testCases.TC001_AccountRegistration - Providing customer details
+18:59:06.037 [main] INFO  testCases.TC001_AccountRegistration - Validating expected message
+18:59:09.862 [main] INFO  testCases.TC002_LoginTest - ****** Starting login page*****
+18:59:10.461 [main] INFO  testCases.TC002_LoginTest - filling creditensial
+19:03:30.766 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\automation-framework\master.xml
+
+19:03:35.359 [main] INFO  testCases.TC001_AccountRegistration - ****** Starting TC001_AccountRegistration ******
+19:03:35.483 [main] INFO  testCases.TC001_AccountRegistration - Logged on MyAccount Link
+19:03:36.099 [main] INFO  testCases.TC001_AccountRegistration - Logged on Register Link
+19:03:36.105 [main] INFO  testCases.TC001_AccountRegistration - Providing customer details
+19:03:39.050 [main] INFO  testCases.TC001_AccountRegistration - Validating expected message
+19:03:43.016 [main] INFO  testCases.TC002_LoginTest - ****** Starting login page*****
+19:03:43.764 [main] INFO  testCases.TC002_LoginTest - filling creditensial
+19:08:28.359 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\automation-framework\master.xml
+
+19:08:33.231 [main] INFO  testCases.TC001_AccountRegistration - ****** Starting TC001_AccountRegistration ******
+19:08:33.316 [main] INFO  testCases.TC001_AccountRegistration - Logged on MyAccount Link
+19:08:34.715 [main] INFO  testCases.TC001_AccountRegistration - Logged on Register Link
+19:08:34.718 [main] INFO  testCases.TC001_AccountRegistration - Providing customer details
+19:08:37.212 [main] INFO  testCases.TC001_AccountRegistration - Validating expected message
+19:08:40.940 [main] INFO  testCases.TC002_LoginTest - ****** Starting login page*****
+19:08:41.507 [main] INFO  testCases.TC002_LoginTest - filling creditensial
+19:12:01.072 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\automation-framework\master.xml
+
+19:12:11.125 [main] INFO  testCases.TC001_AccountRegistration - ****** Starting TC001_AccountRegistration ******
+19:12:11.206 [main] INFO  testCases.TC001_AccountRegistration - Logged on MyAccount Link
+19:12:13.778 [main] INFO  testCases.TC001_AccountRegistration - Logged on Register Link
+19:12:13.786 [main] INFO  testCases.TC001_AccountRegistration - Providing customer details
+19:12:17.343 [main] INFO  testCases.TC001_AccountRegistration - Validating expected message
+19:12:22.472 [main] INFO  testCases.TC002_LoginTest - ****** Starting login page*****
+19:12:22.985 [main] INFO  testCases.TC002_LoginTest - filling creditensial
+19:15:55.529 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\automation-framework\master.xml
+
